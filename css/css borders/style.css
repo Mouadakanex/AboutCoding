@@ -1,0 +1,7 @@
+.border{
+    border: 2px solid yellow;
+    border-radius: 10px;
+}
+.border2{
+    border-style: dotted;
+}
