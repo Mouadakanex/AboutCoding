@@ -1,0 +1,8 @@
+a{
+    color: red;
+    background-color: blue;
+    font-weight: 300;
+}
+a:link{
+    color: grey;
+}
