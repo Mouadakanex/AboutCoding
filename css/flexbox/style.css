@@ -1,0 +1,5 @@
+.Container div{
+    background: red;
+    display: flex;
+    align-items: center;
+}
