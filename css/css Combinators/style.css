@@ -4,3 +4,7 @@ header + h1{
 .newcolor{
     color: yellow;
 }
+header{
+    margin: 10px;
+    padding: 0;
+}

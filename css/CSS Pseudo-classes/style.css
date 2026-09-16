@@ -1,0 +1,12 @@
+header{
+    background: red;
+}
+header:hover{
+    background: blue;
+}
+header::before{
+    transition: all 1s ease;
+}
+header::after{
+    transform: translateX(-10px);
+}
